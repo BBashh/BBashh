@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a strong focus on blockchain development and smart contract security with a strong background in building and securing decentralized applications. With a solid foundation in both development and security, I’ve contributed to various projects ranging from DeFi solutions to innovative blockchain applications. I thrive in dynamic environments where I can leverage my skills to drive impactful results in the Web3 space.
+I'm a passionate software engineer with a strong focus on blockchain development and smart contract security and a strong background in building and securing decentralized applications. With a solid foundation in development and security, I’ve contributed to various projects ranging from DeFi solutions to innovative blockchain applications. I thrive in dynamic environments where I can leverage my skills to drive impactful results in the Web3 space.
 
 ## 🛠️ Skills & Technologies
 
@@ -20,15 +20,15 @@ I'm a passionate software engineer with a strong focus on blockchain development
 - **Technologies Used:** Solidity, Foundry, Manual Review
 - **Highlights:** Worked with CodeHawks and Code4rena; contributed to securing several high-profile DeFi projects.
 
-### 🎟️ [Decentralized Raffle](https://github.com/BBashh/Foundry-Raffle)
-- **Description:** Developed a decentralized raffle application leveraging Ethereum smart contracts for transparent and fair ticketing.
-- **Technologies Used:** Solidity, Truffle, Ethers.js
-- **Highlights:** Implemented secure random number generation and ticket management using Chainlink.
-
 ### 💰 [DeFi Stable Coin](https://github.com/BBashh/Foundry-StableCoin)
 - **Description:** Built a DeFi stable coin with mechanisms for stability and liquidity on the Ethereum network.
 - **Technologies Used:** Solidity, Foundry, Manual Review, Static Analysis
 - **Highlights:** Designed and deployed a decentralized stablecoin protocol with robust security measures.
+
+### 🎟️ [Decentralized Raffle](https://github.com/BBashh/Foundry-Raffle)
+- **Description:** Developed a decentralized raffle application leveraging Ethereum smart contracts for transparent and fair ticketing.
+- **Technologies Used:** Solidity, Truffle, Ethers.js
+- **Highlights:** Implemented secure random number generation and ticket management using Chainlink.
 
 
 ## 📚 Learning & Development
