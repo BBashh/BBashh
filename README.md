@@ -30,11 +30,6 @@ I'm a passionate software engineer with a strong focus on blockchain development
 - **Technologies Used:** Solidity, Truffle, Ethers.js
 - **Highlights:** Implemented secure random number generation and ticket management using Chainlink.
 
-### 📊 [Sales Analysis Dashboard](https://github.com/BBashh/Data_Analytics)
-- **Description:** Designed a comprehensive dashboard to analyze sales trends, enabling stakeholders to make data-driven decisions.
-- **Technologies Used:** Power BI, MySQL, EDA (Exploratory Data Analysis)
-- **Highlights:** Created an interactive Power BI dashboard with detailed visualizations, SQL-integrated analysis, and actionable insights for business growth.
-
 
 ## 📚 Learning & Development
 
