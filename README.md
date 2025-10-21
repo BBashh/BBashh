@@ -2,16 +2,28 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a strong focus on blockchain development and smart contract security and a strong background in building and securing decentralized applications. With a solid foundation in development and security, I’ve contributed to various projects ranging from DeFi solutions to innovative blockchain applications. I thrive in dynamic environments where I can leverage my skills to drive impactful results in the Web3 space.
+I'm a software engineer focused on **blockchain development**, **smart contract security**, and backend engineering with **Python & FastAPI**. I enjoy building decentralized applications, finding and fixing security issues in smart contracts, and designing reliable, well-tested APIs. I work across the stack — from writing secure Solidity and performing audits to building production-ready REST backends with modern Python tooling.
 
 ## 🛠️ Skills & Technologies
 
-- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Hyperledger
-- **Programming Languages:** Solidity, JavaScript, Python, C++, Java
-- **Development Tools:** Hardhat, Truffle, Foundry, Remix, Ganache
-- **Security Tools:** MythX, Slither, Manual Review
-- **Web3 Technologies:** Ethers.js, web3.js, IPFS
-- **Other:** Docker, Git, CI/CD
+### Blockchain / Smart Contracts
+- Solidity, EVM tooling (Hardhat, Foundry, Truffle, Remix)
+- Smart contract security & auditing (Slither, MythX, manual review)
+- Web3 libraries: Ethers.js, web3.js
+- IPFS / decentralized storage concepts
+
+### Backend / Python / APIs
+- Python 3.13 · FastAPI · Uvicorn
+- SQLAlchemy (ORM) · Alembic (migrations)
+- Pydantic / pydantic-settings
+- PostgreSQL
+- Docker · docker-compose
+- Testing with pytest
+
+### General / DevOps
+- Git, CI/CD pipelines, containerization
+- Familiarity with C++, Java, JavaScript
+
 
 ## 📂 Notable Projects
 
@@ -19,6 +31,12 @@ I'm a passionate software engineer with a strong focus on blockchain development
 - **Description:** Conducted public competitive audits of smart contracts, focusing on identifying vulnerabilities and improving security.
 - **Technologies Used:** Solidity, Foundry, Manual Review
 - **Highlights:** Worked with CodeHawks and Code4rena; contributed to securing several high-profile DeFi projects.
+
+
+### 🧭 [FastAPI Backend (Social-media style)](https://github.com/BBashh/fastapi-backend)
+- **Description:** A modular FastAPI REST backend implementing core features for a social-media-like app (users, posts, authentication, votes). Built with production-ready patterns: SQLAlchemy for ORM, Alembic for migrations, Pydantic settings for configuration, and PostgreSQL for persistence.
+- **Tech Stack:** Python 3.13 · FastAPI · Uvicorn · SQLAlchemy · PostgreSQL · Alembic · Pydantic · Docker / docker-compose
+- **Highlights:** Demonstrates backend engineering skills — API design, DB modeling, migrations, and containerized deployment. 
 
 ### 💰 [DeFi Stable Coin](https://github.com/BBashh/Foundry-StableCoin)
 - **Description:** Built a DeFi stable coin with mechanisms for stability and liquidity on the Ethereum network.
@@ -33,7 +51,8 @@ I'm a passionate software engineer with a strong focus on blockchain development
 
 ## 📚 Learning & Development
 
-I continuously seek to stay ahead of industry trends and advancements in blockchain technology. I’m currently exploring Smart Contract Security.
+- Deepening knowledge in Python, FastAPI, SQLAlchemy, Alembic, and production deployment patterns (Docker, Uvicorn).
+- Continuing active work in smart contract security and DeFi auditing.
 
 ## 📫 Connect with Me
 
