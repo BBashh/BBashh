@@ -27,7 +27,7 @@ I'm a software engineer focused on **blockchain development**, **smart contract 
 
 ## 📂 Notable Projects
 
-### 🔒 [Security Auditing Projects](https://github.com/BBashh/Web3)
+### 🔒 [Web3 Security Auditing Projects](https://github.com/BBashh/Web3)
 - **Description:** Conducted public competitive audits of smart contracts, focusing on identifying vulnerabilities and improving security.
 - **Technologies Used:** Solidity, Foundry, Manual Review
 - **Highlights:** Worked with Codehawks, Sherlock Defi, Cantina and Code4rena; contributed to securing several high-profile DeFi projects.
